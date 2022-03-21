@@ -92,6 +92,12 @@ a {
     margin:  0 auto;
 }
 
+@media screen and (max-width: 768px) {
+    .header_wrapper {
+        padding-left: 30px;
+    }
+}
+
 .glowny_tekst {
     margin: 0;
     padding: 0;
